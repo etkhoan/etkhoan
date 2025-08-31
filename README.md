@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 🔭 Cybersecurity professional sharing about my journey and learnings in tech<br>
 🔭 Currently learning about back-end development and data analytics.
 
