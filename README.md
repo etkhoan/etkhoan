@@ -1,5 +1,9 @@
-## Hi there 👋
+### Hi, Elliot here! 
 
+🔭 Cybersecurity professional sharing about my journey and learnings in tech<br/> 
+🔭 Currently learning about back-end development and data analytics.<br/> 
+
+![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=etkhoan&count_private=true&show_icons=true&theme=tokyonight)
 <!--
 **etkhoan/etkhoan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
